@@ -119,6 +119,7 @@
     <Content Include="Lib\83589921.JPG" />
     <Content Include="Lib\NPOI.dll" />
     <Content Include="Lib\NPOI.XML" />
+    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
